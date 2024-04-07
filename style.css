@@ -1,0 +1,147 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu li {
+  text-align: center;
+}
+
+.menu li:nth-child(1) {
+  margin-left: 300px;
+}
+
+.title {
+  font-family: "Inter", sans-serif;
+  font-size: 38px;
+  letter-spacing: 10px;
+  align-items: center;
+}
+
+.menu-name {
+  font-family: "Inter", sans-serif;
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+.menu-name-div {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 300px;
+  width: 50%;
+  align-items: center;
+}
+
+.about-bgcolor {
+  padding-top: 75px;
+  background-color: #f6fafb;
+}
+
+.about-bgcolor > div {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.about {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+.profile {
+  margin-top: 50px;
+  font-size: 32px;
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+}
+
+.profile-name {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+}
+.profile-home {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  margin-top: 13px;
+}
+.profile-birth {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  margin-top: 13px;
+}
+
+.introduce {
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+}
+
+.project_div {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.project1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  line-height: 41px;
+}
+
+.skills_text {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+.skills_div {
+  margin-top: 140px;
+}
+
+.skills_div > div {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.learn_text{
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 32px;
+  margin-top: 90px;
+  margin-bottom: 40px;
+}
+
+.skills{
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  line-height: 60px;
+}
+
+.contact_text{
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 40px;
+  margin-bottom: 19px;
+}
+
+.email_text {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: 35px;
+}
